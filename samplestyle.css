@@ -1,0 +1,42 @@
+body {
+  cursor: url('/Users/emmaellis/Documents/samplewebsite/macaron.png'), auto;
+  background-color: cornflowerblue;
+  color: midnightblue;
+  font-family: 'Open Sans Condensed', sans-serif;
+  margin: 10px 250px 10px 250px;
+}
+
+h1, h2, h3 {
+  cursor: url('/Users/emmaellis/Documents/samplewebsite/macaron.png'), auto;
+  color: midnightblue;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 2em;
+  line-height: 4em;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+
+a, p {
+  opacity: 1;
+  color: midnightblue;
+  text-align: center;
+  font-size: 1em;
+}
+
+#boba1 {
+  width: 250px;
+  height: 250px;
+  opacity: 1;
+  margin: auto;
+}
+
+#boba2 {
+  width: 250px;
+  height: 250px;
+}
+
+#boba3 {
+  width: 250px;
+  height: 250px;
+}
